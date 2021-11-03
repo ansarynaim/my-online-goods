@@ -22,5 +22,5 @@ A fully responsive homepage of a online goods delivery that shows various servic
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![myonlinegoods2](https://user-images.githubusercontent.com/42023583/140035111-7a2dcf36-046d-44c8-ba5a-bba1b51f0d5e.png)
 
